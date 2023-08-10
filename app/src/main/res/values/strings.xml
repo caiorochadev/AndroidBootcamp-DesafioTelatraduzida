@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrimeiroApp(B.A)</string>
+    <string name="bem_vindo" translatable="false">Bem-vindo ao</string>
+    <string name="primeiro_app" translatable="false">Meu primeiro App Android</string>
+    <string name="mudaridioma" translatable="false">Mude o idioma do sistema para</string>
+    <string name="ingles" translatable="false">Inglês</string>
+    <string name="espanhol" translatable="false">Espanhol</string>
+    <string name="italiano" translatable="false">Italiano</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroApp(B.A)</string>
+    <string name="ingles">Inglese</string>
+    <string name="espanhol">Spagnolo</string>
+    <string name="bem_vindo">Benvenuto a</string>
+    <string name="primeiro_app">La mia prima app per Android</string>
+    <string name="mudaridioma">" Cambia la lingua del sistema in"</string>
+    <string name="italiano">Italiano</string>
+</resources>
